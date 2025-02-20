@@ -47,9 +47,28 @@
 <p>
     ### 🛠 Ferramentas QA
 <p>
-    <img alt="Cypress" title="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-    <img alt="Postman" title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img  alt="Robot Framework" title="Robot Framework" width="40px" style="background-color: white; border-radius: 5px; padding: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" />
+    ### 🛠 Ferramentas QA
+<p>
+    <img 
+        alt="Cypress" 
+        title="Cypress" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" 
+    />
+    <img 
+        alt="Postman" 
+        title="Postman" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
+    />
+    <img 
+        alt="Robot Framework" 
+        title="Robot Framework" 
+        width="40px" 
+        src="https://icon-icons.com/icons2/2107/PNG/512/file_type_robotframework_icon_130221.png" 
+    />
+</p>
+
 </p>
 
 ---
