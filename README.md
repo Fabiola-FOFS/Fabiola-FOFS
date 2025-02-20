@@ -59,7 +59,7 @@
     <img 
         alt="Robot Framework" 
         title="Robot Framework" 
-        width="40px" 
+        width="80px" 
         src="https://icehousecorp.com/wp-content/uploads/2022/07/robot-f.png" />
 </p>
 ---
