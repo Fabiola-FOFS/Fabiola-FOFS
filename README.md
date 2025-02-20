@@ -61,7 +61,20 @@
         title="Robot Framework" 
         width="80px" 
         src="https://icehousecorp.com/wp-content/uploads/2022/07/robot-f.png" />
+    <img 
+        alt="JUnit" 
+        title="JUnit" 
+        width="40px" 
+        src="https://upload.wikimedia.org/wikipedia/commons/5/55/JUnit_Logo.png" 
+    />
+    <img 
+        alt="Selenium" 
+        title="Selenium" 
+        width="40px" 
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 </p>
+
+
 ---
 
 ### 📊 Estatísticas
