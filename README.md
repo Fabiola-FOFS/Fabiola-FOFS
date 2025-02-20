@@ -20,12 +20,11 @@
             src="https://custom-icon-badges.demolab.com/github/followers/Fabiola-FOFS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
 
 ---
 
 ### ⚙ Linguagens e Tecnologias
-
+<p>
 <img 
     align="left" 
     alt="Python"
@@ -98,7 +97,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+</p>
 ---
 ### 🛠 ferramentas QA
 <p>
@@ -133,10 +132,9 @@
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="50" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiola-FOFS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
 
