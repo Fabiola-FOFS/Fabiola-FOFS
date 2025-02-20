@@ -8,6 +8,6 @@
 ## 🛠️ Tecnologias e Ferramentas  
 
 - 🚀 **Linguagens:** JavaScript, Python, Java
-- 🔍 **Testes e Qualidade:** Cypress, Robot Framework, Selenium, JUnit, Postman  
+- 🔍 **ferramentas:** Cypress, Robot Framework, Selenium, JUnit, Postman  
 - 📂 **Versionamento:** Git & GitHub
 
