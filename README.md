@@ -48,7 +48,7 @@
     <img alt="Cypress"  title="Cypress"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
     <img alt="Postman"   title="Postman"   width="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"   />
     <img alt="Robot Framework"  title="Robot Framework"  width="80px"  src="https://icehousecorp.com/wp-content/uploads/2022/07/robot-f.png" />
-    <img alt="JUnit"  title="JUnit"  width="80px" src="https://images.app.goo.gl/miuwG53X1gRSREm46.png" />
+    <img alt="JUnit"  title="JUnit"  width="80px" src="https://images.app.goo.gl/miuwG53X1gRSREm46" />
     <img alt="Selenium"  title="Selenium"  width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 
 <p/>
