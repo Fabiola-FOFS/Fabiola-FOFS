@@ -45,10 +45,6 @@
 
 ### 🛠 Ferramentas QA
 <p>
-    ### 🛠 Ferramentas QA
-<p>
-    ### 🛠 Ferramentas QA
-<p>
     <img 
         alt="Cypress" 
         title="Cypress" 
@@ -68,9 +64,6 @@
         src="https://icon-icons.com/icons2/2107/PNG/512/file_type_robotframework_icon_130221.png" 
     />
 </p>
-
-</p>
-
 ---
 
 ### 📊 Estatísticas
