@@ -51,13 +51,13 @@
     />
     <img 
        alt="Robot Framework"  title="Robot Framework"  width="80px"  src="https://icehousecorp.com/wp-content/uploads/2022/07/robot-f.png" />
-    <img 
-        alt="JUnit"  title="JUnit"  width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/5/55/JUnit_Logo.png" 
-    />
-    <link rel="stylesheet" type='text/css' alt="Selenium"  title="Selenium"  width="40px"   href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</p>
+    
+   <i class="devicon-junit-plain-wordmark colored"></i>
+          
+   <img 
+        alt="Selenium"  title="Selenium"  width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 
-
+<p/>
 ---
 
 ### 📊 Estatísticas
