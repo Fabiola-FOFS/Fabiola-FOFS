@@ -58,8 +58,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="HTML"
@@ -76,8 +74,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="React"
@@ -86,7 +82,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -104,8 +99,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+---
 ### 📊 ferramentas QA
 <p>
    <img 
@@ -123,13 +117,12 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-       />
-          
-          
+       />         
 </p>
-
+<br/>
+<br/>
+---
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
@@ -146,9 +139,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiola-FOFS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>## 🛠️ Tecnologias e Ferramentas  
+</p>
 
-- 🚀 **Linguagens:** JavaScript, Python, Java
-- 🔍 **ferramentas:** Cypress, Robot Framework, Selenium, JUnit, Postman  
-- 📂 **Versionamento:** Git & GitHub
+
 
