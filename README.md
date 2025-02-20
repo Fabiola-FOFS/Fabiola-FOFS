@@ -43,7 +43,7 @@
 
 ---
 
-### 🛠 Ferramentas QA
+### 🛠 Ferramentas QA Engineer
 <p>
     <img 
         alt="Cypress" 
@@ -62,6 +62,7 @@
         width="80px" 
         src="https://icehousecorp.com/wp-content/uploads/2022/07/robot-f.png" />
 </p>
+
 ---
 
 ### 📊 Estatísticas
