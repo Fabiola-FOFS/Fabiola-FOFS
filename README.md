@@ -29,9 +29,9 @@
 </a>
 <a href="https://www.dio.me/users/qa_teste_fs" target="_blank">
     <img 
-        alt="PROFILE DIO" 
+        alt="DIO" 
         title="Meu perfil na DIO" 
-        src="https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=dio&logoColor=white"
+        src="https://img.shields.io/badge/My_Profile_DIO-000000?style=for-the-badge&logo=dio&logoColor=white&border=1px solid white"
     />
 </a>
 
