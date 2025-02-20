@@ -19,6 +19,13 @@
         src="https://custom-icon-badges.demolab.com/github/followers/Fabiola-FOFS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
 </a>
+<a href="https://www.linkedin.com/in/fabiolafofs/" target="_blank">
+    <img 
+        alt="LinkedIn" 
+        title="Me siga no LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
 
 ---
 
@@ -38,8 +45,13 @@
 
 ### 🛠 Ferramentas QA
 <p>
+    ### 🛠 Ferramentas QA
+<p>
     <img alt="Cypress" title="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
     <img alt="Postman" title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+    <img alt="Robot Framework" title="Robot Framework" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" />
+</p>
+
 </p>
 
 ---
