@@ -12,13 +12,7 @@
         src="https://custom-icon-badges.demolab.com/github/stars/Fabiola-FOFS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     />
 </a>
-<a href="https://github.com/Fabiola-FOFS?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/Fabiola-FOFS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-</a>
+
 <a href="https://www.linkedin.com/in/fabiolafofs/" target="_blank">
     <img 
         alt="LinkedIn" 
@@ -26,6 +20,21 @@
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
+<a href="https://www.canva.com/design/DAGfqS58idw/Mz7NvZypdv--loHqQDM5Og/view?utm_content=DAGfqS58idw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8cc8d9606a" target="_blank">
+    <img 
+        alt="Currículo" 
+        title="Veja meu Currículo" 
+        src="https://img.shields.io/badge/Currículo-32CD32?style=for-the-badge&logo=readthedocs&logoColor=white"
+    />
+</a>
+<a href="https://www.dio.me/users/qa_teste_fs" target="_blank">
+    <img 
+        alt="DIO" 
+        title="Meu perfil na DIO" 
+        src="https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=dio&logoColor=white"
+    />
+</a>
+
 
 ---
 
