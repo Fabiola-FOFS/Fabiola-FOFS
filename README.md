@@ -3,7 +3,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🔍 Apaixonada por **Qualidade de Software e Segurança**  
-💡 Atualmente me especializando em **Testes de Software e QA**  
+💡 Atualmente me especializando em **qualidade e teste de software**  
 
 ## 🛠️ Tecnologias e Ferramentas  
 
