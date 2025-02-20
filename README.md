@@ -49,8 +49,7 @@
         alt="Cypress" 
         title="Cypress" 
         width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" 
-    />
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
     <img 
         alt="Postman" 
         title="Postman" 
@@ -61,8 +60,7 @@
         alt="Robot Framework" 
         title="Robot Framework" 
         width="40px" 
-        src="https://icon-icons.com/icons2/2107/PNG/512/file_type_robotframework_icon_130221.png" 
-    />
+        src="https://images.app.goo.gl/2UsujTzaqf8VEVxr6/>
 </p>
 ---
 
