@@ -60,7 +60,7 @@
         alt="Robot Framework" 
         title="Robot Framework" 
         width="40px" 
-        src="https://images.app.goo.gl/2UsujTzaqf8VEVxr6" />
+        src="https://icehousecorp.com/wp-content/uploads/2022/07/robot-f.png" />
 </p>
 ---
 
