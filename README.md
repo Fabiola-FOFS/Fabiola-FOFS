@@ -45,19 +45,15 @@
 
 ### 🛠 Ferramentas QA
 <p>
-    <img 
-        alt="Cypress"  title="Cypress"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-    <img   alt="Postman"   title="Postman"   width="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
-    />
-    <img 
-       alt="Robot Framework"  title="Robot Framework"  width="80px"  src="https://icehousecorp.com/wp-content/uploads/2022/07/robot-f.png" />
-    
-   <i class="devicon-junit-plain-wordmark colored"></i>
-          
-   <img 
-        alt="Selenium"  title="Selenium"  width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
+    <img alt="Cypress"  title="Cypress"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+    <img alt="Postman"   title="Postman"   width="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"   />
+    <img alt="Robot Framework"  title="Robot Framework"  width="80px"  src="https://icehousecorp.com/wp-content/uploads/2022/07/robot-f.png" />
+    <img alt="JUnit"  title="Robot Framework"  width="80px" src="https://images.app.goo.gl/AuoiouUVzeps4YEFA" />
+    <img alt="Selenium"  title="Selenium"  width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 
 <p/>
+
+    
 ---
 
 ### 📊 Estatísticas
