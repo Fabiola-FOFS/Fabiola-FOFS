@@ -6,24 +6,14 @@
 💡 Atualmente me especializando em **qualidade e teste de software**  
 
 <a href="https://github.com/Fabiola-FOFS?tab=repositories&sort=stargazers">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/Fabiola-FOFS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
+    <img  alt="Total de estrelas"  title="Total de estrelas GitHub"  src="https://custom-icon-badges.demolab.com/github/stars/Fabiola-FOFS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"  />
 </a>
 <a href="https://github.com/Fabiola-FOFS?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/Fabiola-FOFS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    <img   alt="Seguidores"   title="Me siga no GitHub"   src="https://custom-icon-badges.demolab.com/github/followers/Fabiola-FOFS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
 </a>
 <a href="https://www.linkedin.com/in/fabiolafofs/" target="_blank">
-    <img 
-        alt="LinkedIn" 
-        title="Me siga no LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    <img  alt="LinkedIn"  title="Me siga no LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
 
@@ -45,33 +35,11 @@
 
 ### 🛠 Ferramentas QA
 <p>
-    <img 
-        alt="Cypress" 
-        title="Cypress" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-    <img 
-        alt="Postman" 
-        title="Postman" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
-    />
-    <img 
-        alt="Robot Framework" 
-        title="Robot Framework" 
-        width="80px" 
-        src="https://icehousecorp.com/wp-content/uploads/2022/07/robot-f.png" />
-    <img 
-        alt="JUnit" 
-        title="JUnit" 
-        width="40px" 
-        src="https://upload.wikimedia.org/wikipedia/commons/5/55/JUnit_Logo.png" 
-    />
-    <img 
-        alt="Selenium" 
-        title="Selenium" 
-        width="40px" 
-        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
+    <img  alt="Cypress"  title="Cypress"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+    <img    alt="Postman"  title="Postman"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"  />
+    <img    alt="Robot Framework"  title="Robot Framework"  width="80px"  src="https://icehousecorp.com/wp-content/uploads/2022/07/robot-f.png" />
+    <img   alt="JUnit" title="JUnit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
+    <img  alt="Selenium"  title="Selenium"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 </p>
 
 
