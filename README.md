@@ -41,7 +41,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+  />
 <img 
     align="left" 
     alt="Java"
@@ -49,7 +49,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
- />  
+  />  
  <img 
     align="left" 
     alt="TypeScript"
@@ -57,7 +57,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+ />
 <img 
     align="left" 
     alt="HTML"
@@ -65,7 +65,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+ />
 <img 
     align="left" 
     alt="CSS" 
@@ -73,7 +73,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+ />
 <img 
     align="left" 
     alt="React"
@@ -81,7 +81,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+ />
 <img 
     align="left" 
     alt="Git" 
@@ -89,7 +89,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+ />
 <img 
     align="left" 
     alt="Python" 
@@ -102,22 +102,22 @@
 ---
 ### 🛠 ferramentas QA
 <p>
-   <img 
+<img 
     align="left" 
     alt="Cypress" 
     title="Cypress"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
-     />
-     <img 
+ />
+<img 
     align="left" 
     alt="Postman" 
     title="Postman"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-       />         
+ />         
 </p>
 ---
 ### 📊 Estatísticas
@@ -130,7 +130,7 @@
     src="https://github-readme-stats.vercel.app/api?username=Fabiola-FOFS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
