@@ -49,9 +49,7 @@
 <p>
     <img alt="Cypress" title="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
     <img alt="Postman" title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-    <img alt="Robot Framework" title="Robot Framework" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" />
-</p>
-
+<img  alt="Robot Framework" title="Robot Framework" width="40px" style="background-color: white; border-radius: 5px; padding: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" />
 </p>
 
 ---
