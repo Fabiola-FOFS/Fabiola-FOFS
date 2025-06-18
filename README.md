@@ -62,6 +62,9 @@
    
 
 <p/>
+
+---
+### Certificações e Pins 
 <p>  <a href="https://app.userfeel.com/t/2f669ce8" target="_blank"><img src="https://app.userfeel.com/tester/339064/image?.png"  width="257" class="no-b-lazy" ></a>
 </p>
 
